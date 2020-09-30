@@ -6,7 +6,7 @@ For UNIX based systems -
 python3 -m venv <venv-name>
 source <venv-name>/bin/activate
 pip install jupyter
-ipython kernel install --user --<venv-name>
+ipython kernel install --user --name=<venv-name>
 jupyter notebook
 ```
 
@@ -19,7 +19,7 @@ activate
 cd ..
 cd ..
 pip install jupyter
-ipython kernel install --user --<venv-name>
+ipython kernel install --user --name=<venv-name>
 jupyter notebook
 ```
 

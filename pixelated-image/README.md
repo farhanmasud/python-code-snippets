@@ -16,3 +16,5 @@ The script requires 2 arguments -
 Example -
 
 `python3 pixelate_image.py your-awesome-image.jpg 48`
+
+Original Source [here.](https://stackoverflow.com/a/51547855/10263283)

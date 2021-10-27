@@ -1,0 +1,1 @@
+# Django Starter - Install Dependencies with pip-tools
